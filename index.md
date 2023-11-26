@@ -3,7 +3,7 @@ layout: page
 title: Welcome to My Personal Website
 ---
 
-# Welcome to My Personal Website
+# Biography
 
 Hello! I am Hengzhi He, a first-year PhD student in the [UCLA Statistics & Data Science Department](http://statistics.ucla.edu/). My advisor is [Prof. Xiaowu Dai](https://www.xiaowudai.org/). I am a member of the [Lab for Statistics, Computing, Algorithms, Learning, and Economics (SCALE)](https://www.xiaowudai.org/group).
 
