@@ -21,7 +21,7 @@ Currently, my main research interests lie in the intersections of Statistics and
 
 ### Publications and Preprints
 
-- [**An ODE model for dynamic matching in heterogeneous networks**](https://arxiv.org/abs/2302.09757)  
+- Xiaowu Dai and Hengzhi He [**An ODE model for dynamic matching in heterogeneous networks**](https://arxiv.org/abs/2302.09757)  
   Preprint, 2023+; Under Revisions at Journal of the American Statistical Association: Theory and Methods.
 
 ### Contact
