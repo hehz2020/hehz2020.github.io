@@ -5,7 +5,7 @@ title: Hengzhi He
 
 # Biography
 
-Hello! I am Hengzhi He, a first-year PhD student in the [UCLA Statistics & Data Science Department](http://statistics.ucla.edu/). My advisor is [Prof. Xiaowu Dai](https://www.xiaowudai.org/). I am a member of the [Lab for Statistics, Computing, Algorithms, Learning, and Economics (SCALE)](https://www.xiaowudai.org/group).
+Hello! I am Hengzhi He, a first-year PhD student in the [UCLA Statistics & Data Science Department](http://statistics.ucla.edu/). My advisor is [Prof. Xiaowu Dai](https://www.xiaowudai.org/). I am a member of the [Lab for Statistics, Computing, Algorithms, Learning, and Economics (SCALE)](https://www.xiaowudai.org/group) at UCLA.
 
 Previously, I obtained my bachelor's degree at [the School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/) under the supervision of [Prof. Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I was also mentored by [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/) when doing my undergraduate research about the Isotonic Mechanism.
 
