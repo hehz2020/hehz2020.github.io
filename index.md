@@ -9,4 +9,4 @@ Hello! I am Hengzhi He, a first-year PhD student in the [UCLA Statistics & Data 
 
 Previously, I obtained my bachelor's degree at [the School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/) under the supervision of [Prof. Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I was also mentored by [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/) when doing my undergraduate research about the Isotonic Mechanism.
 
-Currently, my main research interests lie in the intersections of Statistics and Operation Research. I am interested in using the methodology of statistics inference to make more efficient, fair, and trustworthy Decision-Making. My other research interests include statistical learning theory, high dimensional probability and its applications.
+Currently, my main research interests lies in the intersections of Statistics and Operation Research. I am interested in using the methodology of statistics inference to make more efficient, fair, and trustworthy Decision-Making. My other research interests include statistical learning theory, high dimensional probability and its applications.
