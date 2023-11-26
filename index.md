@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to My Personal Website
+title: Hengzhi He
 ---
 
 # Biography
