@@ -1,8 +1,11 @@
 title: Hengzhi He
 email: hengzhihe@g.ucla.edu
-description: >- PhD Student at UCLA # 这将在Google和当网站被分享时显示
-  这里是您的简介或者欢迎信息。
+description: "PhD Student at UCLA"
 baseurl: "" # 基础URL，如果您的网站不在子路径上则留空
 url: "https://hehz2020.github.io" # 您的网站URL
+
+# 社交媒体用户名（如果您不想添加，可以留空或删除这些行）
+twitter_username: 
+github_username:  
 
 theme: minima
