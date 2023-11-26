@@ -18,3 +18,12 @@ Currently, my main research interests lie in the intersections of Statistics and
 
 - **Bachelor of Science in Statistics (2023)**  
   Peking University, Beijing, China
+
+### Publications and Preprints
+
+- [**An ODE model for dynamic matching in heterogeneous networks**](https://arxiv.org/abs/2302.09757)  
+  Preprint, 2023+; Under Revisions at Journal of the American Statistical Association: Theory and Methods.
+
+### Contact
+[hengzhihe@g.ucla.edu](mailto:hengzhihe@g.ucla.edu).
+
