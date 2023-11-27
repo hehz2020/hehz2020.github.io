@@ -2,7 +2,7 @@
 layout: page
 title: Hengzhi He
 ---
-![Hengzhi He](Hengzhi_Photo_New.jpg)
+![Hengzhi He](Hengzhi_Photo_.jpg)
 
 # Biography
 
